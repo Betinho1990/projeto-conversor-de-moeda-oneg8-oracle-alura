@@ -53,7 +53,7 @@ Este é um projeto de **conversor de moedas** desenvolvido em **Java** utilizand
 
 ## 📸 Exemplo de uso
 
-''' 
+``` 
 === Conversor de Moedas ===
 1 - USD (Estados Unidos)
 2 - BRL (Brasil)
@@ -64,12 +64,12 @@ Digite o número da moeda de DESTINO: 2
 Digite o valor a ser convertido: 500
 
 500.00 USD = 2805.30 BRL
-'''
+```
 ## 📚 Histórico de conversões
-Ao final de cada conversão, um log é salvo em historico_conversoes.txt, com informações como:
-'''
+Ao final de cada conversão, um log é salvo em `historico_conversoes.txt`, com informações como:
+```
 2025-05-15T14:22:10 - 500.0 USD -> 2805.3 BRL
-'''
+```
 ##🧾 Licença
 Este projeto é apenas para fins educacionais. Sinta-se à vontade para usar, modificar e compartilhar.
 
